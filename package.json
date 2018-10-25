@@ -1,0 +1,23 @@
+{
+  "name": "node-server-simple",
+  "version": "1.0.0",
+  "description": "A simple (one thread) node-express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabtec/node_server_simple.git"
+  },
+  "author": "Gabriel Martins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabtec/node_server_simple/issues"
+  },
+  "homepage": "https://github.com/gabtec/node_server_simple#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
